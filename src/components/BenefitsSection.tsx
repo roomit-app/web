@@ -4,12 +4,12 @@ const BenefitsSection = () => {
     {
       icon: "⚡️",
       title: "Match rápido",
-      description: "Nuestro algoritmo conecta inquilinos y propietarios basándose en preferencias y compatibilidad real."
+      description: "Nuestro algoritmo conecta inquilinos y propietarios basándose en preferencias y compatibilidad real, de una forma rápida y entretenida."
     },
     {
       icon: "🔒",
-      title: "Pagos seguros",
-      description: "Contratos digitales y sistema de pagos integrado. Tu dinero está protegido hasta confirmar tu estancia."
+      title: "Privacidad y seguridad",
+      description: "Contratos digitales y verificación de usuarios para garantizar una experiencia segura y transparente."
     },
     {
       icon: "📱",

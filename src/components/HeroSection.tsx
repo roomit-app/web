@@ -54,8 +54,8 @@ const HeroSection = () => {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-gray-900">Habitación disponible en Madrid</h3>
-                    <p className="text-gray-600">Centro, zona universitaria • 450€/mes</p>
+                    <h3 className="text-lg font-semibold text-gray-900">Habitación disponible en Santiago de Compostela</h3>
+                    <p className="text-gray-600">Centro, plaza Roja • 280€/mes</p>
                   </div>
                 </div>
                 
@@ -69,8 +69,8 @@ const HeroSection = () => {
                     <p className="text-sm text-gray-600">Chat directo</p>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-4 text-center">
-                    <div className="text-2xl mb-2">📋</div>
-                    <p className="text-sm text-gray-600">Contratos digitales</p>
+                    <div className="text-2xl mb-2">⚡️</div>
+                    <p className="text-sm text-gray-600">Match Rápido</p>
                   </div>
                 </div>
               </div>

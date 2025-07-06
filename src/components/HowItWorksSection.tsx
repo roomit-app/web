@@ -4,7 +4,7 @@ const HowItWorksSection = () => {
     {
       step: "01",
       title: "Elige ciudad y tipo",
-      description: "Selecciona tu ciudad preferida y el tipo de habitación que buscas. Filtra por precio, zona y características.",
+      description: "Selecciona tu ciudad preferida y el tipo de habitación que buscas. Filtra por precio, zona y características de los inquilinos o de la habitación.",
       icon: "🏙️"
     },
     {
@@ -16,7 +16,7 @@ const HowItWorksSection = () => {
     {
       step: "03",
       title: "Firma y entra",
-      description: "Firma tu contrato digital, realiza el pago seguro y recibe las llaves. ¡Tu nueva habitación te espera!",
+      description: "¡Tu nueva habitación te espera!",
       icon: "🔑"
     }
   ];

@@ -14,19 +14,19 @@ const FAQSection = () => {
     },
     {
       question: "¿Qué fees cobra Roomit?",
-      answer: "Roomit cobra una pequeña comisión solo cuando se completa una reserva exitosa. No hay costes ocultos ni suscripciones mensuales para los usuarios."
+      answer: "Roomit no monetiza de forma directa costa de los usuarios. No hay costes ocultos ni suscripciones mensuales."
     },
     {
-      question: "¿Puedo cancelar mi reserva?",
-      answer: "Sí, ofrecemos políticas de cancelación flexibles. Las condiciones específicas dependen del propietario y el tipo de estancia, pero siempre protegemos a nuestros usuarios con políticas justas."
+      question: "¿Cómo puedo contactar con el propietario?",
+      answer: "Puedes enviar mensajes directamente a través de nuestra plataforma. Todas las conversaciones son privadas y seguras."
     },
     {
       question: "¿En qué ciudades está disponible Roomit?",
-      answer: "Actualmente estamos enfocados en Madrid y Barcelona, con planes de expansión a Valencia, Sevilla y otras ciudades universitarias españolas durante 2024."
+      answer: "Actualmente estamos enfocados en Galicia, con planes de expansión a otras ciudades universitarias españolas durante 2026."
     },
     {
-      question: "¿Cómo se realizan los pagos?",
-      answer: "Los pagos se procesan de forma segura a través de nuestra plataforma. Mantenemos el depósito en garantía hasta que confirmes que todo está correcto con tu habitación."
+      question: "¿Qué tipo de habitaciones puedo encontrar?",
+      answer: "Ofrecemos una amplia variedad de habitaciones, desde pisos compartidos hasta estudios individuales, adaptados a diferentes presupuestos y necesidades."
     },
     {
       question: "¿Qué pasa si tengo problemas con mi habitación?",
@@ -66,7 +66,7 @@ const FAQSection = () => {
             ¿No encuentras la respuesta que buscas?
           </p>
           <a
-            href="mailto:hola@roomit.app"
+            href="mailto:roomly.usc@gmail.com"
             className="inline-flex items-center px-6 py-3 border border-primary-300 text-primary-700 rounded-xl hover:bg-primary-50 transition-colors duration-200"
           >
             <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

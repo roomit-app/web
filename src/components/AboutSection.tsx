@@ -33,10 +33,10 @@ const AboutSection = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Pagos seguros</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Usuarios Verificados</h3>
                   <p className="text-gray-600">
-                    Sistema de pagos integrado y seguro. Depósitos protegidos hasta 
-                    que confirmes que todo está perfecto.
+                    Usuarios verificados para garantizar la seguridad y confianza en cada conexión.
+                    Tu tranquilidad es nuestra prioridad.
                   </p>
                 </div>
               </div>
@@ -51,7 +51,7 @@ const AboutSection = () => {
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Comunicación directa</h3>
                   <p className="text-gray-600">
                     Chat integrado para hablar directamente con propietarios. 
-                    Sin intermediarios, sin complicaciones.
+                    Sin intermediarios, sin complicaciones y completamente privado
                   </p>
                 </div>
               </div>
@@ -74,8 +74,8 @@ const AboutSection = () => {
                 <div className="space-y-3">
                   <div className="bg-gray-50 rounded-lg p-3">
                     <div className="flex justify-between items-center mb-2">
-                      <span className="text-sm font-medium text-gray-700">Madrid Centro</span>
-                      <span className="text-sm text-primary-600 font-semibold">450€</span>
+                      <span className="text-sm font-medium text-gray-700">Santiago de Compostela</span>
+                      <span className="text-sm text-primary-600 font-semibold">250€</span>
                     </div>
                     <div className="flex space-x-2">
                       <div className="w-16 h-12 bg-gray-200 rounded"></div>
@@ -86,8 +86,8 @@ const AboutSection = () => {
                   
                   <div className="bg-gray-50 rounded-lg p-3">
                     <div className="flex justify-between items-center mb-2">
-                      <span className="text-sm font-medium text-gray-700">Barcelona Eixample</span>
-                      <span className="text-sm text-primary-600 font-semibold">520€</span>
+                      <span className="text-sm font-medium text-gray-700">Coruña</span>
+                      <span className="text-sm text-primary-600 font-semibold">200€</span>
                     </div>
                     <div className="flex space-x-2">
                       <div className="w-16 h-12 bg-gray-200 rounded"></div>

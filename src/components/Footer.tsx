@@ -67,7 +67,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Roomit. Todos los derechos reservados.
+            © 2025 Roomit. Todos los derechos reservados.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#privacy" className="text-gray-400 hover:text-white text-sm transition-colors">
@@ -76,8 +76,8 @@ const Footer = () => {
             <a href="#terms" className="text-gray-400 hover:text-white text-sm transition-colors">
               Términos de Uso
             </a>
-            <a href="mailto:hola@roomit.app" className="text-gray-400 hover:text-white text-sm transition-colors">
-              hola@roomit.app
+            <a href="mailto:roomly.usc@gmail.com" className="text-gray-400 hover:text-white text-sm transition-colors">
+              roomly.usc@gmail.com
             </a>
           </div>
         </div>
