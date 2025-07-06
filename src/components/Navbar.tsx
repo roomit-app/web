@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <LogoProcessor 
-              originalSrc="/lovable-uploads/roomly_fondo_azul.png"
+              originalSrc="/Rommit_fondo.png"
               className="h-12 w-auto"
               alt="Roomit Logo"
             />
