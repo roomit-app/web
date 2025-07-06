@@ -23,7 +23,7 @@ const PasswordProtection = ({ children }: { children: React.ReactNode }) => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-[#1e3c72] to-[#2a5298] text-white px-4">
       <div className="bg-white/5 p-8 md:p-10 rounded-2xl shadow-xl text-center max-w-md w-full backdrop-blur-sm">
         <img
-          src="/public/lovable-uploads/Roomly (500 x 250 px).png" // asegúrate que esté en /public/logo.png
+          src="/logo_con.png" // asegúrate que esté en /public/logo.png
           alt="Roomit logo"
           className="w-40 mx-auto mb-6"
         />
@@ -40,7 +40,7 @@ const PasswordProtection = ({ children }: { children: React.ReactNode }) => {
             type="password"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
-            placeholder="roomit_app_soon"
+            placeholder="Intorduce la contraseña"
             className={`w-full px-4 py-2 rounded-lg text-black placeholder-gray-400 focus:outline-none ${
               isError ? "border border-red-500" : ""
             }`}
