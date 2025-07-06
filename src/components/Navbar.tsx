@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import LogoProcessor from "./LogoProcessor";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -17,13 +16,16 @@ const Navbar = () => {
     <nav className="fixed top-0 w-full bg-white z-50 border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          {/* Logo */}
-          <div className="flex items-center">
-            <LogoProcessor
-              originalSrc="/Rommit_fondo.png"
-              className="h-12 w-auto"
+          {/* Logo + Texto */}
+          <div className="flex items-center space-x-2">
+            <img
+              src="/logo256.png"
               alt="Roomit Logo"
+              className="h-8 w-8 md:h-10 md:w-10 object-contain"
             />
+            <span className="text-xl md:text-2xl font-bold tracking-tight text-gray-900">
+              Roomit
+            </span>
           </div>
 
           {/* Desktop Menu */}
