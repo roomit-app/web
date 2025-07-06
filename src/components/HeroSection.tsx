@@ -14,7 +14,7 @@ const HeroSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center animate-fade-in">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Tu próxima habitación,{" "}
+            Tu próximo compañero de piso,{" "}
             <span className="gradient-text">más cerca que nunca</span>
           </h1>
           
